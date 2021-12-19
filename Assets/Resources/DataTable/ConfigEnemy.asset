@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22775423828214ab6812ca30533e3ee8, type: 3}
+  m_Name: ConfigEnemy
+  m_EditorClassIdentifier: 
+  records:
+  - id: 1
+    prefab: E_01
+  - id: 2
+    prefab: E_02
+  - id: 3
+    prefab: E_03
+  - id: 4
+    prefab: E_04
+  - id: 5
+    prefab: E_05
+  - id: 6
+    prefab: E_06
+  - id: 7
+    prefab: E_07
+  - id: 8
+    prefab: E_08
+  - id: 9
+    prefab: E_09
+  - id: 10
+    prefab: E_10

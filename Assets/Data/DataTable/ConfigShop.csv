@@ -1,0 +1,7 @@
+id,icon,icon_Value,value,cost_dollar,cost_potion
+1,ShopItem01,potion,1000,9.99,0
+2,ShopItem02,potion,700,6.99,0
+3,ShopItem03,potion,500,2.99,0
+4,ShopItem04,potion,100,0.99,0
+5,WatchVideo,potion,50,0,0
+6,Boom,Boom,1,0,10

@@ -1,0 +1,255 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32a530b4168691b45a6c5e4b4ecbf1dd, type: 3}
+  m_Name: ConfigWeaponLevel
+  m_EditorClassIdentifier: 
+  records:
+  - idGun: 1
+    level: 1
+    rof: 0.2
+    damage: 1
+    reload: 3
+    clipSize: 5
+    hp: 50
+    cost: 10
+  - idGun: 1
+    level: 2
+    rof: 0.15
+    damage: 3
+    reload: 2.5
+    clipSize: 7
+    hp: 75
+    cost: 20
+  - idGun: 1
+    level: 3
+    rof: 0.1
+    damage: 5
+    reload: 2
+    clipSize: 10
+    hp: 100
+    cost: 50
+  - idGun: 2
+    level: 1
+    rof: 0.2
+    damage: 2
+    reload: 1
+    clipSize: 15
+    hp: 60
+    cost: 20
+  - idGun: 2
+    level: 2
+    rof: 0.15
+    damage: 3
+    reload: 2.5
+    clipSize: 20
+    hp: 80
+    cost: 30
+  - idGun: 2
+    level: 3
+    rof: 0.1
+    damage: 5
+    reload: 2
+    clipSize: 25
+    hp: 100
+    cost: 60
+  - idGun: 3
+    level: 1
+    rof: 0.2
+    damage: 1
+    reload: 3
+    clipSize: 5
+    hp: 55
+    cost: 30
+  - idGun: 3
+    level: 2
+    rof: 0.15
+    damage: 3
+    reload: 2.5
+    clipSize: 7
+    hp: 95
+    cost: 40
+  - idGun: 3
+    level: 3
+    rof: 0.1
+    damage: 5
+    reload: 2
+    clipSize: 10
+    hp: 120
+    cost: 50
+  - idGun: 4
+    level: 1
+    rof: 0.2
+    damage: 1
+    reload: 3
+    clipSize: 5
+    hp: 50
+    cost: 90
+  - idGun: 4
+    level: 2
+    rof: 0.15
+    damage: 3
+    reload: 2.5
+    clipSize: 7
+    hp: 100
+    cost: 100
+  - idGun: 4
+    level: 3
+    rof: 0.1
+    damage: 5
+    reload: 2
+    clipSize: 10
+    hp: 150
+    cost: 110
+  - idGun: 5
+    level: 1
+    rof: 0.2
+    damage: 1
+    reload: 3
+    clipSize: 5
+    hp: 70
+    cost: 60
+  - idGun: 5
+    level: 2
+    rof: 0.15
+    damage: 3
+    reload: 2.5
+    clipSize: 7
+    hp: 90
+    cost: 70
+  - idGun: 5
+    level: 3
+    rof: 0.1
+    damage: 5
+    reload: 2
+    clipSize: 10
+    hp: 120
+    cost: 80
+  - idGun: 6
+    level: 1
+    rof: 0.2
+    damage: 1
+    reload: 3
+    clipSize: 5
+    hp: 45
+    cost: 120
+  - idGun: 6
+    level: 2
+    rof: 0.15
+    damage: 3
+    reload: 2.5
+    clipSize: 7
+    hp: 80
+    cost: 130
+  - idGun: 6
+    level: 3
+    rof: 0.1
+    damage: 5
+    reload: 2
+    clipSize: 10
+    hp: 100
+    cost: 140
+  - idGun: 7
+    level: 1
+    rof: 0.2
+    damage: 2
+    reload: 1
+    clipSize: 15
+    hp: 65
+    cost: 150
+  - idGun: 7
+    level: 2
+    rof: 0.15
+    damage: 3
+    reload: 2.5
+    clipSize: 7
+    hp: 90
+    cost: 160
+  - idGun: 7
+    level: 3
+    rof: 0.1
+    damage: 5
+    reload: 2
+    clipSize: 10
+    hp: 110
+    cost: 170
+  - idGun: 8
+    level: 1
+    rof: 0.2
+    damage: 1
+    reload: 3
+    clipSize: 5
+    hp: 70
+    cost: 180
+  - idGun: 8
+    level: 2
+    rof: 0.15
+    damage: 3
+    reload: 2.5
+    clipSize: 7
+    hp: 130
+    cost: 190
+  - idGun: 8
+    level: 3
+    rof: 0.1
+    damage: 5
+    reload: 2
+    clipSize: 10
+    hp: 150
+    cost: 200
+  - idGun: 9
+    level: 1
+    rof: 0.2
+    damage: 1
+    reload: 3
+    clipSize: 5
+    hp: 80
+    cost: 210
+  - idGun: 9
+    level: 2
+    rof: 0.15
+    damage: 3
+    reload: 2.5
+    clipSize: 7
+    hp: 90
+    cost: 220
+  - idGun: 9
+    level: 3
+    rof: 0.1
+    damage: 5
+    reload: 2
+    clipSize: 10
+    hp: 120
+    cost: 230
+  - idGun: 10
+    level: 1
+    rof: 0.2
+    damage: 1
+    reload: 3
+    clipSize: 5
+    hp: 75
+    cost: 240
+  - idGun: 10
+    level: 2
+    rof: 0.15
+    damage: 3
+    reload: 2.5
+    clipSize: 7
+    hp: 90
+    cost: 250
+  - idGun: 10
+    level: 3
+    rof: 0.1
+    damage: 5
+    reload: 2
+    clipSize: 10
+    hp: 120
+    cost: 260
